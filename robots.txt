@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /multumesc.html
+
+Sitemap: https://storage-box.ro/sitemap.xml
